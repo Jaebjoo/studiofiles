@@ -1,0 +1,29 @@
+﻿dummy,dummy,dummy,dummy
+adhis7,P@ssw0rd,IN605 - Databases 2,Suresh Adhikari
+aldidr1,P@ssw0rd,IN605 - Databases 2,Deegan Alding
+bretkg1,P@ssw0rd,IN605 - Databases 2,Kieran Brett
+collikj1,P@ssw0rd,IN605 - Databases 2,Kristen Collins
+cosgbf1,P@ssw0rd,IN605 - Databases 2,Bernadette Cosgrove
+davica3,P@ssw0rd,IN605 - Databases 2,Clayton Davidson
+dungetj1,P@ssw0rd,IN605 - Databases 2,Tyler Dungey
+enspj1,P@ssw0rd,IN605 - Databases 2,Patrick Ens
+geddeca1,P@ssw0rd,IN605 - Databases 2,Catherine Geddes
+gillmd3,P@ssw0rd,IN605 - Databases 2,Matthew Gillan
+hewisj1,P@ssw0rd,IN605 - Databases 2,Samuel Hewitt
+jackg6,P@ssw0rd,IN605 - Databases 2,Gregory Jackson
+jordaj2,P@ssw0rd,IN605 - Databases 2,Albertus Jordaan
+kelljj2,P@ssw0rd,IN605 - Databases 2,Jack Kelliher
+lis19,P@ssw0rd,IN605 - Databases 2,Sen Li
+littae2,P@ssw0rd,IN605 - Databases 2,Amber Little
+mccoc12,P@ssw0rd,IN605 - Databases 2,Cassidy McCosh
+meddtg1,P@ssw0rd,IN605 - Databases 2,Taylor Medder
+realdi1,P@ssw0rd,IN605 - Databases 2,Daniel Real
+reevs3,P@ssw0rd,IN605 - Databases 2,Seymour Reeves-Boddy
+mohanr1,P@ssw0rd,IN605 - Databases 2,Nabeel Riad Mohammed
+rosaf2,P@ssw0rd,IN605 - Databases 2,Francisco Fernando Rosas Chavez
+scotms2,P@ssw0rd,IN605 - Databases 2,Mitchell Scott
+shimy5,P@ssw0rd,IN605 - Databases 2,Yoseob Shim
+thomcs4,P@ssw0rd,IN605 - Databases 2,Conrad Thomas
+wattrg1,P@ssw0rd,IN605 - Databases 2,Reuben Watt
+tester2020,P@ssw0rd,IN605 - Databases 2,Tester2020
+testerA20,P@ssw0rd,IN605 - Databases 3,TesterA 2020 

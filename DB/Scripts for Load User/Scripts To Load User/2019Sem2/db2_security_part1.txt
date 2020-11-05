@@ -1,0 +1,15 @@
+adamm7,P@ssword,IN605 - Databases 2,Muhammed Adam
+baxtpj1,P@ssword,IN605 - Databases 2,Phillip Baxter
+blaikr1,P@ssword,IN605 - Databases 2,Kylie Blair
+cosgbf1,P@ssword,IN605 - Databases 2,Bernadette Cosgrove
+gibsbl2,P@ssword,IN605 - Databases 2,Bryn Gibson
+hannjj1,P@ssword,IN605 - Databases 2,Jacob Hannigan
+howert1,P@ssword,IN605 - Databases 2,Rheyden Howe
+meast2,P@ssword,IN605 - Databases 2,Todd Meason
+mellam1,P@ssword,IN605 - Databases 2,Anthony Mellon
+nyholw1,P@ssword,IN605 - Databases 2,Lucas Nyhof
+portfa1,P@ssword,IN605 - Databases 2,Fynn Porteous
+shimy5,P@ssword,IN605 - Databases 2,Yoseob Shim
+smitkb1,P@ssword,IN605 - Databases 2,Keegan Smith
+watkgl1,P@ssword,IN605 - Databases 2,Georgette Watkins
+testdb2,P@ssword,IN605 - Databases 2,KW Test 2020

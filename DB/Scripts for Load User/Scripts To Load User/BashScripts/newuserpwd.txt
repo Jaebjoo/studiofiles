@@ -1,0 +1,30 @@
+adamm7,P@ssw0rd,IN605 - Databases 2,Muhammed Adam
+baxtpj1,P@ssw0rd,IN605 - Databases 2,Phillip Baxter
+blaikr1,P@ssw0rd,IN605 - Databases 2,Kylie Blair
+cosgbf1,P@ssw0rd,IN605 - Databases 2,Bernadette Cosgrove
+gibsbl2,P@ssw0rd,IN605 - Databases 2,Bryn Gibson
+hannjj1,P@ssw0rd,IN605 - Databases 2,Jacob Hannigan
+howert1,P@ssw0rd,IN605 - Databases 2,Rheyden Howe
+meast2,P@ssw0rd,IN605 - Databases 2,Todd Meason
+mellam1,P@ssw0rd,IN605 - Databases 2,Anthony Mellon
+nyholw1,P@ssw0rd,IN605 - Databases 2,Lucas Nyhof
+portfa1,P@ssw0rd,IN605 - Databases 2,Fynn Porteous
+shimy5,P@ssw0rd,IN605 - Databases 2,Yoseob Shim
+smitkb1,P@ssw0rd,IN605 - Databases 2,Keegan Smith
+watkgl1,P@ssw0rd,IN605 - Databases 2,Georgette Watkins
+testdb2,P@ssw0rd,IN605 - Databases 2,KW Test 2020
+barnsj2,P@ssw0rd,IN605 - Databases 2,Samuel Barnes
+blackkk1,P@ssw0rd,IN605 - Databases 2,Kieren Black
+chalbr1,P@ssw0rd,IN605 - Databases 2,Blake Chalmers
+dungetj1,P@ssw0rd,IN605 - Databases 2,Tyler Dungey
+gillmd3,P@ssw0rd,IN605 - Databases 2,Matthew Gillan
+hornaj2,P@ssw0rd,IN605 - Databases 2,Amethyst Horn
+mandha1,P@ssw0rd,IN605 - Databases 2,Harold Mandal
+melda2,P@ssw0rd,IN605 - Databases 2,Anthony Meldrum-Harris
+morrsr3,P@ssw0rd,IN605 - Databases 2,Sophie Morrison
+polli2,P@ssw0rd,IN605 - Databases 2,Ian Pollock
+samsojl1,P@ssw0rd,IN605 - Databases 2,Jonathon Samson-Noble
+smitcr7,P@ssw0rd,IN605 - Databases 2,Cody Smith
+thomis1,P@ssw0rd,IN605 - Databases 2,Isaac Thomas
+windcj3,P@ssw0rd,IN605 - Databases 2,Caleb Wind
+testdb3,P@ssw0rd,IN605 - Databases 2,Test User 3

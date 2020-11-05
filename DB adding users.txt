@@ -1,0 +1,48 @@
+Test Document
+
+Adding Users 2020/09/14
+
+1. Update
+2. Add Server Users
+3. Add Mysql Users
+
+Move csv and scripts to server using WinSCP
+
+** Update 
+sudo apt-get update
+sudo apt upgrade
+
+!!COMPLETE
+
+Tasks adding 2020 Semester 2020 to DB2 Server
+
+db2security 10.25.1.120
+username: itintern
+password: (obtained + CopyPasted using KeePass)
+
+Adding Users
+
+**Commands
+
+sudo su
+
+chmod +x addusers.sh
+
+sudo ./addusers.sh db2ServerUsers.csv
+
+./runquerytxt.sh db2MySqlUsers.csv 
+
+./deleteuser.sh db2ServerUsers.txt
+
+!!COMPLETE 
+
+Server Users Added + MYSQL Users Added
+
+Users Tested
+
+adhis7
+wattrg1
+littae2
+
+Password : P@ssw0rd
+

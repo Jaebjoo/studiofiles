@@ -1,0 +1,48 @@
+<html>
+<head>
+</head>
+<body>
+<?php
+
+$mysqloutput = date("YmdHis")."-mysql.txt";
+$userFile = "mysqlusers.txt";
+$inputfile=fopen($userFile,"r") or exit("Ya blew it. File mysqlusers.txt doesn't exist");
+$scriptoutput=fopen($mysqloutput,"a");
+
+
+fwrite($scriptoutput, "use rbroadley; drop procedure if exists createUser;
+delimiter $$
+create procedure createUser(username varchar(50), pw varchar(50))
+begin
+IF (SELECT EXISTS(SELECT 1 FROM `mysql`.`user` WHERE `user` = username)) = 0 THEN
+    begin
+    set @sql = CONCAT('CREATE USER ', username, '@\'%\' IDENTIFIED BY \'', pw, '\'');
+    prepare stmt from @sql;
+    execute stmt;
+    deallocate prepare stmt;
+    end;
+END IF;
+end $$
+delimiter ;\n");
+
+while(!feof($inputfile))
+{	
+	$username = strtolower(rtrim(fgets($inputfile), "\r\n"));
+	if ($username != ""){
+	$explode = explode(",", $username);
+	fwrite($scriptoutput, "call createUser('".$explode[0]."','".$explode[1]."');"); //create user
+	fwrite($scriptoutput, "grant all privileges on `".$explode[0]."_%`.* to '".$explode[0]."'@'localhost' with grant option;\n"); //grant privilege to create db's suffixed with username
+	//Grant select on sakila, weather and world.
+	fwrite($scriptoutput, "GRANT SELECT ON `mysql`.* to ".$explode[0]."@'localhost';");
+	fwrite($scriptoutput, "GRANT SELECT ON `sakila`.* to ".$explode[0]."@'localhost';");
+	fwrite($scriptoutput, "GRANT SELECT ON `weather`.* to ".$explode[0]."@'localhost';");
+	fwrite($scriptoutput, "GRANT SELECT ON `world`.* to ".$explode[0]."@'localhost';\n");
+	} 
+}
+fwrite($scriptoutput, "FLUSH PRIVILEGES;");
+echo "Great Job!";
+fclose($inputfile);
+fclose($scriptoutput);
+?>
+</body>
+</html>

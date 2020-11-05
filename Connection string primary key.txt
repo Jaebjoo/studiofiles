@@ -1,0 +1,1 @@
+HostName=JBJIOTDemo.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=023jbSZ+uZpdk/o5eQZI+fiSgdeQpsKhXSPKMwxpYOg=

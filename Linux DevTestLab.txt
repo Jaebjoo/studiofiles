@@ -1,0 +1,12 @@
+Dev Test Lab
+
+2 Vnet
+3 VM
+Routing Table?
+vm peering
+configure private ip addresses
+https://docs.microsoft.com/en-us/azure/devtest-labs/devtest-lab-shared-ip
+
+https://docs.microsoft.com/en-us/azure/devtest-labs/devtest-lab-create-lab
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview

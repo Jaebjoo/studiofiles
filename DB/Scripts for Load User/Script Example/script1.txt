@@ -1,0 +1,8 @@
+INPUT=$1
+OLDIFS=$IFS
+IFS=,
+[ ! -f $INPUT ] && { echo "$INPUT file not found"; exit 99; }
+while read login idNum course fullName
+do
+        grep -q "$login" /etc/passwd && usermod -c "$fullName, $course" $login || ( useradd -c "$fullName, $course" -d /home/$login -m -U -s /bin/bash $login; echo $login:$idNum | chpasswd; chage -d 0 $login; edquota -p darrelll $login )
+done < $INPUT

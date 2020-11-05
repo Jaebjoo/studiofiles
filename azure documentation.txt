@@ -1,0 +1,9 @@
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-csharp-csharp-c2d
+
+https://www.youtube.com/watch?v=1rIIXLOqzyw
+
+https://github.com/KhaledJemni/IoTHubConsoleApp
+
+https://catalog.azureiotsolutions.com/docs?title=Azure/azure-iot-device-ecosystem/manage_iot_hub
+
+https://wikiazure.com/azure-iot/create-an-iot-hub-and-connect-your-iot-device/
